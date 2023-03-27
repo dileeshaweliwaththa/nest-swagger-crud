@@ -26,6 +26,7 @@ createUser(createUserDto: CreateUserDto): User{
     return newUser;
 
     console.log("J1 - Commit fro Jeewantha")
+    console.log("J2 - Commit 2 from Jeewantha")
 }
 
 }
